@@ -2,11 +2,11 @@
 Description: [description]
 Browser (Name and Version): [browser]
 
-- Priority: [priority]            
+Priority: [priority]            
 
-- Reproductions Steps: [steps]
+Reproductions Steps: [steps]
 
-- Expected Result: [exepected-result]
+Expected Result: [exepected-result]
 
-- Actual Result: [actual-result]
+Actual Result: [actual-result]
 ```
