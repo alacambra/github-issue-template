@@ -1,3 +1,4 @@
+```gherkin
 Description: [description]
 Browser (Name and Version): [browser]
 
@@ -8,3 +9,4 @@ Browser (Name and Version): [browser]
 - Expected Result: [exepected-result]
 
 - Actual Result: [actual-result]
+```
